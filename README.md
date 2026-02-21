@@ -1,4 +1,5 @@
 Right-Aligned Pyramid Pattern in Python
+
 A simple Python script that demonstrates the use of for loops and string multiplication to generate a right-aligned triangle pattern.
 
 🚀 How it Works
