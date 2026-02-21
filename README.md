@@ -11,6 +11,7 @@ Stars: i asterisks to form the triangle body.
 
 Code Snippet
 Python
+
 rows = 5
 
 for i in range(1, rows + 1):
