@@ -21,12 +21,15 @@ for i in range(1, rows + 1):
 When rows = 5, the console will display:
 
 Plaintext
+
     *
    **
   ***
  ****
 *****
+
 🛠️ Customization
+
 You can easily modify the rows variable to increase or decrease the height of the triangle, or change the "*" character to any other symbol (like # or @) to change the look.
 
 📝 License
