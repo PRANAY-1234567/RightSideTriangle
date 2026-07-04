@@ -30,4 +30,5 @@ Plaintext
 You can easily modify the rows variable to increase or decrease the height of the triangle, or change the "*" character to any other symbol (like # or @) to change the look.
 
 📝 License
+
 This project is open-source and available under the MIT License.
