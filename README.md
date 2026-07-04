@@ -32,3 +32,5 @@ You can easily modify the rows variable to increase or decrease the height of th
 📝 License
 
 This project is open-source and available under the MIT License.
+
+<img width="503" height="784" alt="image" src="https://github.com/user-attachments/assets/84751889-f9c4-4f42-a107-6c07cbae8a4c" />
