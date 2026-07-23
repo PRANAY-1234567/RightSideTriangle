@@ -2,6 +2,7 @@ Right-Aligned Pyramid Pattern in Pyt
 A simple Python script that demonstrates the use of for loops and string multiplication to generate a right-aligned triangle pattern.
 
 🚀 How it Works
+
 The script iterates through a range based on the number of rows. For each row, it calculates:
 
 Spaces: (rows - i) spaces to push the asterisks to the right.
